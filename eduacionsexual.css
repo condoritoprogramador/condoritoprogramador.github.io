@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.titulos h1{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+.titulos{
+    margin: 20px;
+    font-size: 20px;
+    background-color: rgb(68, 146, 68);
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.edusex{
+    margin: 20px;
+    padding: 40px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-family: sans-serif;
+    background-color: rgb(247, 233, 216);
+    border-radius: 20px;
+    margin-left: 20px;
+}

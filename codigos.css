@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("fondocodi.jpg")
+}
+.parrafo{
+    color: rgb(238, 237, 237);
+    font-size: 25px;
+    padding: 20px;
+    font-family: monospace;
+    background: linear-gradient(to right, blue, red );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 7px,13px,37px;
+}
